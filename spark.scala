@@ -1,4 +1,5 @@
 //===================Chen Sun(bbsunchen@outlook.com)=====================
+//==================K-means algorithm on spark===========================
 
 import org.apache.spark.rdd.RDD
 import org.apache.spark.rdd.PairRDDFunctions
