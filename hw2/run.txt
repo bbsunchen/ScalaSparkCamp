@@ -1,0 +1,3 @@
+s3://psucse97data/tweets/
+s3://psucse97students-cxs1031/hw2_o3/
+50
